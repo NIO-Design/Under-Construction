@@ -5,7 +5,7 @@ $(document).ready(function(){
     var header = "Страницата е в процес на разработка.",
         topic = "До откриването на новата версия остават:",
         days = "Дни",
-		hours = "Часове",
+	hours = "Часове",
         minutes = "Минути",
         seconds = "Секунди"; 
 
