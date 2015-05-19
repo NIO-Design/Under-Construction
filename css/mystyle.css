@@ -1,5 +1,5 @@
 body {
-    background: url("/images/bcg.jpg") no-repeat fixed center center / cover #e7e7e7;
+    background: url("../images/bcg.jpg") no-repeat fixed center center / cover #e7e7e7;
     color: #fff;
 }
 
@@ -40,3 +40,4 @@ ul#timer li {
 p {
     font-size: 30px;
 }
+
